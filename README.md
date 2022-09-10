@@ -40,11 +40,11 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Node.Js](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=nodejs)
-  
+<!---
 ## **GitHub Stats**
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vinicius-silveira1&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-silveira1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-silveira1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --->
   
 
