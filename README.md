@@ -26,7 +26,7 @@
 
 <h3> :star: &nbsp;About me </h3>
 
-- :earth_americas: &nbsp; Learning to be a Full Stack Dev.
+- :earth_americas: &nbsp; Learning Web and Mobile Development.
 - 🎓 &nbsp; Currently studying Computer Science.
 - :crossed_fingers: &nbsp; Looking for first experience.
 
