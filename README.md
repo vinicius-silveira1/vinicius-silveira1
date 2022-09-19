@@ -30,12 +30,6 @@
 - 🎓 &nbsp; Currently studying Computer Science.
 - :crossed_fingers: &nbsp; Looking for first experience.
 
-
-
-![Vinícius' GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-silveira1&theme=dark&show_icons=true)
-
-
-
 <h3> :rocket: &nbsp;Skills </h3>
 
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
@@ -45,11 +39,13 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Node.Js](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=nodejs)
-<!---
+
 ## **GitHub Stats**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vinicius-silveira1&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-silveira1&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-silveira1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --->
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vinicius-silveira1&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-silveira1&layout=compact&theme=dark)
   
 
