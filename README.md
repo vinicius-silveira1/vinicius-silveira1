@@ -32,6 +32,10 @@
 
 
 
+![Vinícius' GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-silveira1&theme=dark&show_icons=true)
+
+
+
 <h3> :rocket: &nbsp;Skills </h3>
 
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
