@@ -32,6 +32,7 @@
 
 <h3> :rocket: &nbsp;Skills </h3>
 
+  ![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)
   ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
