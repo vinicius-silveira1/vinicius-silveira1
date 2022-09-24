@@ -45,9 +45,6 @@
 ## **GitHub Stats**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-silveira1&theme=dark&show_icons=true)
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vinicius-silveira1&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-silveira1&layout=compact&theme=dark)
   
 
