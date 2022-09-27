@@ -28,7 +28,7 @@
 
 - :earth_americas: &nbsp; Learning Web and Mobile Development.
 - 🎓 &nbsp; Currently studying Computer Science.
-- :crossed_fingers: &nbsp; Looking for first experience.
+- :crossed_fingers: &nbsp; Looking for first professional experience.
 
 <h3> :rocket: &nbsp;Skills </h3>
 
