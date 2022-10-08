@@ -26,7 +26,7 @@
 
 <h3> :star: &nbsp;About me </h3>
 
-- :earth_americas: &nbsp; Learning Web and Mobile Development.
+- :calling: &nbsp; Focusing in Android Devolopment.
 - 🎓 &nbsp; Currently studying Computer Science.
 - :crossed_fingers: &nbsp; Looking for first professional experience.
 - :sparkling_heart: &nbsp; Other interests: basketball, gaming and music!
