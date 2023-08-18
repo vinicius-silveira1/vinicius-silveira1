@@ -26,7 +26,6 @@
 
 <h3> :star: &nbsp;About me </h3>
 
-- ☕: &nbsp; Focusing in Java.
 - 🎓 &nbsp; Currently studying Computer Science.
 - :crossed_fingers: &nbsp; Looking for first professional experience.
 - :sparkling_heart: &nbsp; Other interests: basketball, gaming and music!
@@ -35,11 +34,10 @@
 
   ![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)
   ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+  ![C#](https://img.shields.io/badge/Csharp-333333?style=flat&logo=csharp)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Node.Js](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=nodejs)
 
