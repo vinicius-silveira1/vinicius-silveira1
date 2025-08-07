@@ -1,0 +1,35 @@
+name: Generate README snake and activity
+
+on:
+  schedule:
+    # Roda a cada 6 horas
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Gera a animação da cobra
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: vinicius-silveira1
+          # O arquivo SVG será gerado em uma branch chamada "output"
+          outputs: dist/github-contribution-grid-snake.svg
+
+      # Atualiza o feed de atividades
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # O conteúdo será inserido entre as tags e comment_tag_name: "activity"
+          feed_list: "https://github.com/vinicius-silveira1.atom"
+          max_post_count: 5 # Número de atividades a serem exibidas
+
+      # Salva as alterações
+      - name: Commit and push
+        run: |
+          git config --global user.name "README Bot"
+          git config --global user.email "readme-bot@example.com"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualização automática do README" && git push)
