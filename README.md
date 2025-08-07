@@ -1,11 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Olá! Sou o Vinícius Silveira 👋</h1>
-  [cite_start]<p><strong>Desenvolvedor Full Stack</strong> e estudante de Ciência da Computação[cite: 2]. [cite_start]Busco uma oportunidade de estágio ou vaga júnior para aplicar e expandir meus conhecimentos na criação de soluções web completas, desde interfaces de usuário dinâmicas até arquiteturas de backend robustas e escaláveis[cite: 6].</p>
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/49557270/162989143-61195861-c363-42a9-b14c-1d9162f3f988.gif" width="600"/>
+  <h1>Olá! Sou o Vinícius Silveira 👋</h1>
+  <p><strong>Desenvolvedor Full Stack</strong> e estudante de Ciência da Computação. Busco uma oportunidade de estágio ou vaga júnior para aplicar e expandir meus conhecimentos na criação de soluções web completas, desde interfaces de usuário dinâmicas até arquiteturas de backend robustas e escaláveis.</p>
 </div>
 
 ---
@@ -13,16 +9,16 @@
 ### 🚀 Projeto em Destaque: ProspectRadar
 
 <div align="center">
-  [cite_start]<h3><strong> ProspectRadar - Plataforma de Scouting Esportivo </strong> [cite: 18]</h3>
-  [cite_start]<p>O ProspectRadar é uma plataforma web full stack que desenvolvi para análise e scouting de prospects de basquete[cite: 20]. O objetivo é centralizar e processar dados de múltiplas fontes para fornecer insights valiosos a olheiros e entusiastas do esporte.</p>
+  <h3><strong> ProspectRadar - Plataforma de Scouting Esportivo </strong></h3>
+  <p>O ProspectRadar é uma plataforma web full stack que desenvolvi para análise e scouting de prospects de basquete. O objetivo é centralizar e processar dados de múltiplas fontes para fornecer insights valiosos a olheiros e entusiastas do esporte.</p>
   
   <p align="left"><strong>Principais características da solução:</strong></p>
   <ul align="left">
-    [cite_start]<li><strong>Sistema de Dados Híbrido:</strong> Integração de múltiplas fontes de dados para uma análise completa[cite: 21].</li>
-    [cite_start]<li><strong>Backend Robusto:</strong> Serviços dedicados para processamento, validação e enriquecimento de dados[cite: 22].</li>
-    [cite_start]<li><strong>API Inteligente:</strong> Sistema de integração com API externa, incluindo fallback inteligente e cache para garantir a disponibilidade[cite: 23].</li>
-    [cite_start]<li><strong>Arquitetura Escalável:</strong> Serviços modulares e preparados para deploy em containers Docker[cite: 24].</li>
-    [cite_start]<li><strong>Algoritmo de Trending:</strong> Lógica de negócio para identificar atletas em ascensão com base em performance e processamento de dados[cite: 25].</li>
+    <li><strong>Sistema de Dados Híbrido:</strong> Integração de múltiplas fontes de dados para uma análise completa.</li>
+    <li><strong>Backend Robusto:</strong> Serviços dedicados para processamento, validação e enriquecimento de dados.</li>
+    <li><strong>API Inteligente:</strong> Sistema de integração com API externa, incluindo fallback inteligente e cache para garantir a disponibilidade.</li>
+    <li><strong>Arquitetura Escalável:</strong> Serviços modulares e preparados para deploy em containers Docker.</li>
+    <li><strong>Algoritmo de Trending:</strong> Lógica de negócio para identificar atletas em ascensão com base em performance e processamento de dados.</li>
   </ul>
 
   <a href="https://github.com/vinicius-silveira1/prospectRadar">
