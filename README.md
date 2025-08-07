@@ -1,33 +1,24 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/header.png" alt="Banner com ilustrações de código"/>
-</p>
-
 <div align="center">
-  <h1>Olá! Sou o Vinícius Silveira 👋</h1>
-  <p><strong>Desenvolvedor Full Stack</strong> e estudante de Ciência da Computação.</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+o+Vin%C3%ADcius+Silveira;Desenvolvedor+Full+Stack;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 </div>
 
----
-
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="65%">
+    <td width="65%" valign="top">
       <h2 align="left">📌 Sobre Mim</h2>
       <p align="left">
         Busco uma oportunidade de estágio ou vaga júnior para aplicar e expandir meus conhecimentos na criação de soluções web completas, desde interfaces de usuário dinâmicas até arquiteturas de backend robustas e escaláveis.
-        <br><br>
-        Tenho um interesse especial por arquitetura de serviços, processamento de dados e pela cultura DevOps para otimizar e automatizar fluxos de trabalho.
       </p>
-      
+      <br>
       <h2 align="left">📫 Onde me encontrar</h2>
       <p align="left">
         <a href="https://linkedin.com/in/viniciusfernandosilveira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
         <a href="mailto:vinifs19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
       </p>
     </td>
-    <td valign="top" width="35%">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=vinicius-silveira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Vinicius"/>
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-silveira1&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas por Vinicius"/>
+    <td width="35%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=vinicius-silveira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-silveira1&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
     </td>
   </tr>
 </table>
@@ -35,9 +26,9 @@
 ---
 
 <h2 align="center">💻 Habilidades e Ferramentas</h2>
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,js,html,css,tailwind,postgresql,docker,git,aws,vite&perline=7" />
-</p>
+</div>
 
 ---
 
@@ -51,6 +42,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/footer.png" alt="Footer com ícones de redes sociais"/>
-</p>
+<h2 align="center">🏆 Troféus GitHub</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vinicius-silveira1&theme=dracula&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+</div>
