@@ -10,12 +10,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     
-    # Adicionado: Concede permissão para a ação escrever no repositório
     permissions:
       contents: write
 
     steps:
-      # Adicionado: Baixa o repositório para que a ação possa modificá-lo
       - uses: actions/checkout@v4
 
       # Gera a animação da cobra
@@ -25,10 +23,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
 
-      # Atualiza o feed de atividades
+      # Atualiza o feed de atividades (linha corrigida)
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "activity"
           feed_list: "https://github.com/${{ github.repository_owner }}.atom"
           max_post_count: 5
 
