@@ -1,48 +1,48 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+o+Vin%C3%ADcius+Silveira;Desenvolvedor+Full+Stack;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h2 align="left">📌 Sobre Mim</h2>
-      <p align="left">
-        Busco uma oportunidade de estágio ou vaga júnior para aplicar e expandir meus conhecimentos na criação de soluções web completas, desde interfaces de usuário dinâmicas até arquiteturas de backend robustas e escaláveis.
-      </p>
-      <br>
-      <h2 align="left">📫 Onde me encontrar</h2>
-      <p align="left">
-        <a href="https://linkedin.com/in/viniciusfernandosilveira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        <a href="mailto:vinifs19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-      </p>
-    </td>
-    <td width="35%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=vinicius-silveira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-silveira1&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
-    </td>
-  </tr>
-</table>
+<h1 align="left"> 
+  Hi there! :wave: <br>
+  I'm Vinícius Silveira.
+</h1>
 
----
+<p align="left">
+  :computer: Computer Science student
+</p>
 
-<h2 align="center">💻 Habilidades e Ferramentas</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,js,html,css,tailwind,postgresql,docker,git,aws,vite&perline=7" />
-</div>
 
----
+<p align="left">
+  
 
-<h2 align="center">🚀 Projeto em Destaque: ProspectRadar</h2>
-<div align="center">
-  <p>Uma plataforma web full stack que desenvolvi para análise e scouting de prospects de basquete, com o objetivo de centralizar e processar dados de múltiplas fontes para fornecer insights valiosos.</p>
-  <a href="https://github.com/vinicius-silveira1/prospectRadar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius-silveira1&repo=prospectRadar&theme=dracula&bg_color=0d1117&title_color=61dafb&text_color=ffffff&icon_color=61dafb" alt="Card do Projeto prospectRadar"/>
-  </a>
-</div>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-silveira-948480157/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/vin%C3%ADcius-silveira-948480157/" /></a>
 
----
+  <a href="https://wa.me/5511998904227/" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="https://wa.me/5511998904227/"></a>
 
-<h2 align="center">🏆 Troféus GitHub</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinicius-silveira1&theme=dracula&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
-</div>
+ 
+</p>  
+
+![](https://komarev.com/ghpvc/?username=vinicius-silveira1&color=006bed)
+
+<h3> :star: &nbsp;About me </h3>
+
+- 🎓 &nbsp; Currently studying Computer Science.
+- :crossed_fingers: &nbsp; Looking for first professional experience.
+- :sparkling_heart: &nbsp; Other interests: basketball, gaming and music!
+
+<h3> :rocket: &nbsp;Skills </h3>
+
+  ![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)
+  ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java)
+  ![C#](https://img.shields.io/badge/Csharp-333333?style=flat&logo=csharp)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Node.Js](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=nodejs)
+
+## **GitHub Stats**
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-silveira1&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-silveira1&layout=compact&theme=dark)
+  
