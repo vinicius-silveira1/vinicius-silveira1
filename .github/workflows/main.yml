@@ -9,27 +9,38 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # Adicionado: Concede permissão para a ação escrever no repositório
+    permissions:
+      contents: write
 
     steps:
+      # Adicionado: Baixa o repositório para que a ação possa modificá-lo
+      - uses: actions/checkout@v4
+
       # Gera a animação da cobra
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: vinicius-silveira1
-          # O arquivo SVG será gerado em uma branch chamada "output"
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
 
       # Atualiza o feed de atividades
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # O conteúdo será inserido entre as tags e comment_tag_name: "activity"
-          feed_list: "https://github.com/vinicius-silveira1.atom"
-          max_post_count: 5 # Número de atividades a serem exibidas
+          comment_tag_name: "activity"
+          feed_list: "https://github.com/${{ github.repository_owner }}.atom"
+          max_post_count: 5
 
-      # Salva as alterações
+      # Salva as alterações no repositório
       - name: Commit and push
         run: |
           git config --global user.name "README Bot"
-          git config --global user.email "readme-bot@example.com"
+          git config --global user.email "readme-bot@users.noreply.github.com"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualização automática do README" && git push)
+          if git diff --staged --quiet; then
+            echo "Nenhuma alteração para commitar"
+          else
+            git commit -m "Atualização automática do README"
+            git push
+          fi
