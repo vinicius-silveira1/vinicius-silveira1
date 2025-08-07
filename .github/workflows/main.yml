@@ -15,6 +15,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main # Garante que a branch principal seja usada
 
       # Gera a animação da cobra
       - uses: Platane/snk@v3
@@ -23,7 +25,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
 
-      # Atualiza o feed de atividades (linha corrigida)
+      # Atualiza o feed de atividades
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://github.com/${{ github.repository_owner }}.atom"
