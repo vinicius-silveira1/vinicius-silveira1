@@ -21,7 +21,7 @@
 
 ### ⚡ Atividade Recente no GitHub
 
-Aguardando a atualização automática das minhas atividades...
+As minhas atividades recentes no GitHub serão listadas aqui...
 ---
 
 ### 🚀 Projeto em Destaque: ProspectRadar
