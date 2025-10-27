@@ -27,7 +27,6 @@
 <h3> :star: &nbsp;About me </h3>
 
 - 🎓 &nbsp; Currently studying Computer Science.
-- :crossed_fingers: &nbsp; Looking for first professional experience.
 - :sparkling_heart: &nbsp; Other interests: basketball, gaming and music!
 
 <h3> :rocket: &nbsp;Skills </h3>
